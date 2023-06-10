@@ -1,5 +1,5 @@
 Hello! This is the online repository for codes, problem statements, and miscellaneous documents corresponding to YouTube videos found on my channel (https://www.youtube.com/channel/UCLdZvO58QpWXImoLO02wh0A). 
 
-My YouTube channel contains many introductory MATLAB Programming and Numerical Methods tutorials. These files are intended primarily for Virginia Tech (Blacksburg, Virginia, USA) students enrolled in the ME 2004: Engineering Analysis Using Numerical Methods course; however, I am posting these files for public use because I am a proponent of open-source education. You can refer to the old syllabus if you would like to learn more about the course. 
+My YouTube channel contains many introductory MATLAB Programming and Numerical Methods tutorials. These files are intended primarily for Virginia Tech (Blacksburg, Virginia, USA) students enrolled in the ME 2004: Engineering Analysis Using Numerical Methods course; however, I am posting these files for public use because I am a proponent of open-source education. You can refer to the old syllabus in the "00: Course Information" folder if you would like to learn more about the course. 
 
 I am always looking for ways to improve these codes, so please feel free to make a pull request if you wish. 
